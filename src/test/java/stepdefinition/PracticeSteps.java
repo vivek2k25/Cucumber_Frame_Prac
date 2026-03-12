@@ -38,7 +38,7 @@ public class PracticeSteps {
     public void user_clicks_submit() {
 
         page.clickSubmit();
-        System.out.println("Print line added here ---------by Vivek");
+        System.out.println("Print line added here..... ---------by Vivek");
       //  System.out.println();
         ExtentTestManager.getTest().info("Clicked Submit button");
     }

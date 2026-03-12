@@ -93,6 +93,7 @@ public class PracticePage {
        // driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
         //driver.findElement(submitBtn).click();
+        // added a line here
 
 
         System.out.println("Clicked on the submit button");
