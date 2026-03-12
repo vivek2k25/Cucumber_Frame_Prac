@@ -93,8 +93,8 @@ public class PracticePage {
        // driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
         //driver.findElement(submitBtn).click();
-       
 
+ // for gib triger
 
         System.out.println("Clicked on the submit button");
     }
