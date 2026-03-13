@@ -94,7 +94,7 @@ public class PracticePage {
 
         //driver.findElement(submitBtn).click();
 
- // for gib triger
+ // Normal comment added by vivel for git trigger check
 
         System.out.println("Clicked on the submit button");
     }
